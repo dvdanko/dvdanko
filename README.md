@@ -2,14 +2,14 @@
 Before that, we were taught Pascal at school, and at home I made simple Lua games and mods.
 
 - I am developing in the areas of programming that interest me:
- * Frontend developer;
- * Backend developer;
- * Fullstack developer;
- * C/C++ developer;
- * Game developer.
+  * Frontend developer;
+  * Backend developer;
+  * Fullstack developer;
+  * C/C++ developer;
+  * Game developer.
 
 - Contact with me:
- * Discord: dvdanko
+  * Discord: dvdanko
 
 <!---
 dvdanko/dvdanko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
