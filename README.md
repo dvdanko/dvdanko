@@ -1,12 +1,15 @@
+- Hello, I am dvDanK-o, 23rd March 2004, Russia.
+I am a computer technician and programmer.
+
 - I started learning programming languages: C++ in 2021 and C# in 2022, when I was in my 2nd and 3rd years of college.
 Before that, we were taught Pascal at school, and at home I made simple Lua games and mods.
 
 - I am developing in the areas of programming that interest me:
-  * Frontend developer;
-  * Backend developer;
-  * Fullstack developer;
-  * C/C++ developer;
-  * Game developer.
+  * Frontend development;
+  * Backend development;
+  * Fullstack development;
+  * C/C++ development;
+  * Game development.
 
 - Contact with me:
   * Discord: dvdanko
