@@ -12,6 +12,7 @@ Before that, we were taught Pascal at school, and at home I made simple Lua game
   * Game development.
 
 - Contact with me:
+  * Email: danvikerro.work@gmail.com
   * Discord: dvdanko
 
 <!---
