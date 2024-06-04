@@ -1,8 +1,11 @@
 - Hello, I am dvDanK-o, 23rd March 2004, Russia.
-I am a computer technician and programmer.
+I am a technical equipment adjuster and a programmer.
 
-- I started learning programming languages: C++ in 2021 and C# in 2022, when I was in my 2nd and 3rd years of college.
-Before that, we were taught Pascal at school, and at home I made simple Lua games and mods.
+- I started learning programming languages:
+  * C++ in 2021;
+  * C# in 2022;
+  * Kotlin in 2024
+When I was in my 2nd, 3rd and 4th years in college.
 
 - I am developing in the areas of programming that interest me:
   * Frontend development;
