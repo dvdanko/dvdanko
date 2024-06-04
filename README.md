@@ -1,4 +1,5 @@
 Hello, I am dvDanK-o, 23rd March 2004, Russia.
+
 I am a technical equipment adjuster and a programmer.
 
 I started learning programming languages:
@@ -6,7 +7,7 @@ I started learning programming languages:
 * C# in 2022;
 * Kotlin in 2024
 
-When I was in my 2nd, 3rd and 4th years in college.
+when I was in my 2nd, 3rd and 4th years in college.
 
 I am developing in the areas of programming that interest me:
 * Frontend development;
