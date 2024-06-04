@@ -5,7 +5,8 @@ I started learning programming languages:
 * C++ in 2021;
 * C# in 2022;
 * Kotlin in 2024
-  When I was in my 2nd, 3rd and 4th years in college.
+
+When I was in my 2nd, 3rd and 4th years in college.
 
 I am developing in the areas of programming that interest me:
 * Frontend development;
